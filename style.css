@@ -112,3 +112,12 @@ header{
     color: #fff;
     z-index: 2;
 }
+
+#about{
+    background-color: #373737;
+    padding: 50px 0;
+    color: #fff;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
